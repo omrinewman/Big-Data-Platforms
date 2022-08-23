@@ -1,3 +1,2 @@
 # Big Data Platforms 
-# Fall 2021 
-# Reichman University 
+## Reichman University Fall 2021
